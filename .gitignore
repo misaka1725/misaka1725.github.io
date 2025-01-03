@@ -1,0 +1,16 @@
+node_modules/
+dist/
+package-lock.json
+# valaxy fuse
+public/valaxy-fuse-list.json
+pnpm-lock.yaml
+# valaxy rss
+public/feed.xml
+
+# valaxy rss
+public/atom.xml
+
+# valaxy rss
+public/feed.json
+
+.valaxy/
