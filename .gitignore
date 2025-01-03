@@ -16,3 +16,5 @@ public/feed.json
 .valaxy/
 
 !/node_modules/valaxy-theme-yun/assets/images/hello.webp
+!/node_modules/valaxy-theme-yun/assets/images/suger.webp
+!/node_modules/valaxy-theme-yun/assets/images/suger.jpg
