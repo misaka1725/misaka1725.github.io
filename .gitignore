@@ -14,5 +14,3 @@ public/atom.xml
 public/feed.json
 
 .valaxy/
-
-!node_modules/valaxy-theme-yun/*
