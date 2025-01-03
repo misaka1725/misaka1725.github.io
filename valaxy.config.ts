@@ -14,7 +14,7 @@ const safelist = [
 export default defineValaxyConfig<UserThemeConfig>({
   // site config see site.config.ts
 
-  theme: 'yun',
+  theme: 'valaxy-theme-yun',
 
   themeConfig: {
     banner: {
