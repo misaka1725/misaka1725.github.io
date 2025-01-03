@@ -1,5 +1,5 @@
-node_modules/
-dist/
+/node_modules/*
+dist/*
 package-lock.json
 # valaxy fuse
 public/valaxy-fuse-list.json
@@ -14,3 +14,5 @@ public/atom.xml
 public/feed.json
 
 .valaxy/
+
+!/node_modules/valaxy-theme-yun/assets/images/hello.webp

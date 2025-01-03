@@ -1,7 +1,7 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
-  url: 'https://valaxy.site/',
+  url: 'https://misaka1725.github.io/',
   lang: 'zh-CN',
   title: '冬夏凝思',
   author: {
