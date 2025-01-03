@@ -23,8 +23,8 @@ export default defineValaxyConfig<UserThemeConfig>({
     },
     bg_image: {
       enable: true,
-      url: '../hello.webp',
-      dark: '../suger.jpg',
+      url: 'https://misaka1725.github.io/hello.webp',
+      dark: 'https://misaka1725.github.io/suger.jpg',
       opacity: 1
     },
     pages: [
