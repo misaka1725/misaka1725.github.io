@@ -1,7 +1,9 @@
 ---
 layout: post
 title: 上届拜年祭直播回放及作品合集
-tags: ATRI&GINKA 拜年祭
+tags: 
+    - ATRI&GINKA
+    - 拜年祭
 categories: 拜年祭活动
 date: 2025-01-03 15:39:28
 cover: haqian.jpg

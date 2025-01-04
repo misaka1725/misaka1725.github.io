@@ -1,7 +1,9 @@
 ---
 layout: post
 title: 作品推荐周报第三期！
-tags: ATRI&GINKA 作品推荐
+tags: 
+    - ATRI&GINKA
+    - 作品推荐
 categories: 同人创作
 date: 2025-01-04 00:15:36
 cover: weekpaper_2.jpg

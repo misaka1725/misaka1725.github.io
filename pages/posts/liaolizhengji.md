@@ -1,7 +1,11 @@
 ---
 layout: post
 title: 【ATRI&GINKA拜年祭】料理征集活动！
-tags: 活动介绍 ATRI&GINKA 料理 拜年祭
+tags: 
+    - 活动介绍 
+    - ATRI&GINKA 
+    - 料理 
+    - 拜年祭
 categories: 拜年祭活动
 date: 2025-01-03 00:01:30
 cover: liaoli.webp

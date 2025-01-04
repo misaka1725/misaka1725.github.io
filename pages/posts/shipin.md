@@ -1,7 +1,11 @@
 ---
 layout: post
 title: 【ATRI&GINKA拜年祭】宣传视频一览
-tags: 活动介绍 ATRI&GINKA 拜年祭 宣传视频
+tags: 
+    - 活动介绍 
+    - ATRI&GINKA 
+    - 拜年祭 
+    - 宣传视频
 categories: 拜年祭活动
 date: 2025-01-03 14:44:28
 cover: hengban.webp

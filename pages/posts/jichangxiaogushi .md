@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 【ATRI&GINKA拜年祭】剧场小故事
-tags: ATRI&GINKA 拜年祭 剧场故事
+tags: 
+    - ATRI&GINKA
+    - 拜年祭
+    - 剧场故事
 categories: 拜年祭活动
 date: 2025-01-03 00:01:29
 cover: shuiluobo.jpg
