@@ -5,6 +5,7 @@ tags: 活动介绍 ATRI&GINKA 料理 拜年祭
 categories: 拜年祭活动
 date: 2025-01-03 00:01:30
 cover: liaoli.webp
+top: 4
 ---
 
 ### **内容概述**
@@ -43,6 +44,8 @@ cover: liaoli.webp
 ---
 
 ### 投稿方式
+
+<br>
 
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;鉴于后续**抽奖部分**的联系需要，推荐想要参与的大家加入**拜年祭活动群**：**868266603**，投稿可通过私聊发给拜年祭群群主，或是通过**邮箱**投稿至：**yb1725@.mail.ustc.edu.cn**
 

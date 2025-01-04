@@ -3,9 +3,9 @@ layout: post
 title: 【招人宣传】冬夏凝思——2025 ATRI & GINKA 拜年祭企划
 tags: 活动介绍 ATRI&GINKA 拜年祭
 categories: 拜年祭活动
-date: 2025-01-03 00:09:33
+date: 2025-01-03 16:09:33
 cover: xuanchuan.jpg
-top: 1
+top: 5
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哈喽！各位小伙伴们，大家好呀！

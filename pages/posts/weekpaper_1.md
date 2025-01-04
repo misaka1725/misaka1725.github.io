@@ -3,7 +3,7 @@ layout: post
 title: 作品推荐周报第一期！
 tags: ATRI&GINKA 作品推荐
 categories: 同人创作
-date: 2025-01-03 00:01:28
+date: 2025-01-02 00:01:28
 cover: weekpaper_1.jpg
 ---
 

@@ -5,6 +5,7 @@ tags: ATRI&GINKA 拜年祭 剧场故事
 categories: 拜年祭活动
 date: 2025-01-03 00:01:29
 cover: shuiluobo.jpg
+top: 1
 ---
 
 ### **一起来记录拜年祭吧！**
