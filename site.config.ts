@@ -6,7 +6,7 @@ export default defineSiteConfig({
   title: '冬夏凝思',
   author: {
     name: 'ATRI&GINKA拜年祭',
-    avatar: 'logo.webp'
+    avatar: '/avatar/avatar.webp'
   },
   description: '拜年祭快要来啦！ヾ(≧▽≦*)o',
   social: [

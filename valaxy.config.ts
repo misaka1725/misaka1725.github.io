@@ -1,8 +1,6 @@
 import type { UserThemeConfig } from 'valaxy-theme-yun'
 import { defineValaxyConfig } from 'valaxy'
 
-
-
 // add icons what you will need
 const safelist = [
   'i-ri-home-line',
@@ -13,9 +11,7 @@ const safelist = [
  */
 export default defineValaxyConfig<UserThemeConfig>({
   // site config see site.config.ts
-
   theme: 'valaxy-theme-yun',
-
   themeConfig: {
     banner: {
       enable: true,
@@ -23,8 +19,8 @@ export default defineValaxyConfig<UserThemeConfig>({
     },
     bg_image: {
       enable: true,
-      url: 'hello.webp',
-      dark: 'suger.jpg',
+      url: '/bg/bg-light.webp',
+      dark: '/bg/bg-dark.webp',
       opacity: 1
     },
     pages: [
@@ -41,16 +37,13 @@ export default defineValaxyConfig<UserThemeConfig>({
       //   color: 'hotpink',
       // },
     ],
-    
     footer: {
       since: 2024,
-      beian: {
-        enable: false,
-        icp: '苏ICP备17038157号',
-      },
+      //beian: {
+      //  enable: false,
+      //  icp: '苏ICP备17038157号',
+      //},
     },
   },
   unocss: { safelist },
-
-  
 })

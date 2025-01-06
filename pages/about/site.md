@@ -1,7 +1,4 @@
 ---
-title: 关于站点
+title: 请填满这只萝莉吧...
 ---
 
-Valaxy + valaxy-theme-yun Demo Site
-
-- Default Theme: [valaxy-theme-yun](https://github.com/YunYouJun/valaxy/blob/main/packages/valaxy-theme-yun/)
