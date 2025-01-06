@@ -19,8 +19,8 @@ export default defineValaxyConfig<UserThemeConfig>({
     },
     bg_image: {
       enable: true,
-      url: '/bg/bg-light-new.webp',
-      dark: '/bg/bg-dark-new.webp',
+      url: '/bg/bg-light.avif',
+      dark: '/bg/bg-dark.avif',
       opacity: 1
     },
     pages: [

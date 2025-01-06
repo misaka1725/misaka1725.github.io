@@ -6,7 +6,7 @@ tags:
     - 作品推荐
 categories: 同人创作
 date: 2025-01-03 00:01:28
-cover: /img/weekpaper/2/cover.webp
+cover: /img/weekpaper/2/cover.avif
 ---
 
 ### **写在前面**

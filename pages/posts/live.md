@@ -6,7 +6,7 @@ tags:
     - 拜年祭
 categories: 拜年祭活动
 date: 2025-01-03 15:39:28
-cover: /img/live/cover.webp
+cover: /img/live/cover.avif
 top: 2
 ---
 

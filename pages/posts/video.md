@@ -8,7 +8,7 @@ tags:
     - 宣传视频
 categories: 拜年祭活动
 date: 2025-01-03 14:44:28
-cover: /img/video/cover.webp
+cover: /img/video/cover.avif
 top: 3
 ---
 

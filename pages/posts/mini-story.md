@@ -7,7 +7,7 @@ tags:
     - 剧场故事
 categories: 拜年祭活动
 date: 2025-01-03 00:01:29
-cover: /img/mini-story/cover.webp
+cover: /img/mini-story/cover.avif
 top: 1
 ---
 

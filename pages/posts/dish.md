@@ -8,7 +8,7 @@ tags:
     - 拜年祭
 categories: 拜年祭活动
 date: 2025-01-03 00:01:30
-cover: /img/dish/cover.webp
+cover: /img/dish/cover.avif
 top: 4
 ---
 
@@ -23,7 +23,7 @@ top: 4
 
 <br>
 
-![](/img/dish/img-1.webp)
+![](/img/dish/img-1.avif)
 <br>
 
 ---
@@ -41,7 +41,7 @@ top: 4
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;既然没有做过，那**不妨试试**吧！**JUST DO IT**!
 <br>
 
-![](/img/dish/img-2.webp)
+![](/img/dish/img-2.avif)
 
 <br>
 
@@ -59,7 +59,7 @@ top: 4
 
 <br>
 
-![](/img/dish/img-3.webp)
+![](/img/dish/img-3.avif)
 
 <br>
 
@@ -80,7 +80,7 @@ top: 4
 
 <br>
 
-![](/img/dish/img-4.webp)
+![](/img/dish/img-4.avif)
 
 <br>
 

@@ -14,3 +14,6 @@ public/atom.xml
 public/feed.json
 
 .valaxy/
+
+avif/input/*
+avif/output/*

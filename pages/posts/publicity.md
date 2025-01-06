@@ -7,7 +7,7 @@ tags:
     - 拜年祭
 categories: 拜年祭活动
 date: 2025-01-03 16:09:33
-cover: /img/publicity/cover.webp
+cover: /img/publicity/cover.avif
 top: 5
 ---
 
@@ -19,7 +19,7 @@ top: 5
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;因而，秉持着希望能将这份感动扩散给更多的人的初衷，我们在此正式向大家介绍我们**今年的ATRI&GINKA拜年祭企划**，并衷心邀请喜爱这两部作品的，大家每一位的加入！
 
-![](/img/publicity/img-1.webp)
+![](/img/publicity/img-1.avif)
 
 ---
 
@@ -31,7 +31,7 @@ top: 5
 
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;后来**幸赖大家不遗余力的支持**，最后升格为了现在的**拜年祭企划活动**，对此**感谢大家一直以来的支持**！
 
-![](/img/publicity/img-2.webp)
+![](/img/publicity/img-2.avif)
 
 ---
 
@@ -53,7 +53,7 @@ top: 5
 
 <br>
 
-![](/img/publicity/img-3.webp)
+![](/img/publicity/img-3.avif)
 
 ---
 
@@ -67,7 +67,7 @@ top: 5
 
 <br>
 
-![](/img/publicity/img-4.webp)
+![](/img/publicity/img-4.avif)
 
 <br>
 
@@ -80,7 +80,7 @@ top: 5
 
 <br>
 
-![](/img/publicity/img-5.webp)
+![](/img/publicity/img-5.avif)
 
 ---
 
@@ -97,7 +97,7 @@ top: 5
 
 <br>
 
-![](/img/publicity/img-6.webp)
+![](/img/publicity/img-6.avif)
 
 ---
 
