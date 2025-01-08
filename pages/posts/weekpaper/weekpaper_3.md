@@ -83,14 +83,15 @@ cover: /img/weekpaper/3/cover.avif
 
 - [【WOTA艺】あの光【ATRI -My Dear Moments-】——2024-09-23](https://www.bilibili.com/video/BV1ubsyeFEQq)
 
+<br>
+
 <iframe loading="lazy" width="100%" height="400" src="//player.bilibili.com/player.html?isOutside=true&aid=113182320500487&bvid=BV1ubsyeFEQq&cid=25964777243&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 <br>
 
-
 ### MC
 
-- [x] [亚托莉粘土人教程，我是高性能的嘛~！——2024-10-02](https://www.bilibili.com/video/BV1wt4AeiENk)
+- [亚托莉粘土人教程，我是高性能的嘛~！——2024-10-02](https://www.bilibili.com/video/BV1wt4AeiENk)
 
 <br>
 
