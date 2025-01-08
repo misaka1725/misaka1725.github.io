@@ -42,7 +42,7 @@ top: 3
   <summary style="background-color:rgb(199, 224, 247);; color:rgb(0, 0, 0); padding: 10px; border-radius: 5px;font-weight: bold;">视频看这里！</summary>
   <br>
 
-  <iframe loading="lazy" width="100%" height="400" src="https://player.bilibili.com/player.html?bvid=BV1GQ4y1c7o5&t=70.5&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+  <iframe width="100%" height="400" src="https://player.bilibili.com/player.html?bvid=BV1GQ4y1c7o5&t=70.5&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </details>
 
 <br>
@@ -55,7 +55,7 @@ top: 3
   <summary style="background-color:rgb(199, 224, 247);; color:rgb(0, 0, 0); padding: 10px; border-radius: 5px;font-weight: bold;">这里藏了什么呢，好难猜啊</summary>
   <br>
 
-  <iframe loading="lazy" width="100%" height="400" src="https://player.bilibili.com/player.html?bvid=BV1GQ4y1c7o5&t=99&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+  <iframe width="100%" height="400" src="https://player.bilibili.com/player.html?bvid=BV1GQ4y1c7o5&t=99&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </details>
 
 <br>
@@ -74,7 +74,7 @@ top: 3
   <summary style="background-color:rgb(199, 224, 247);; color:rgb(0, 0, 0); padding: 10px; border-radius: 5px;font-weight: bold;">快要成功啦！加油！</summary>
   <br>
 
-  <iframe loading="lazy" width="100%" height="400" src="https://player.bilibili.com/player.html?bvid=BV1GQ4y1c7o5&t=122&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+  <iframe width="100%" height="400" src="https://player.bilibili.com/player.html?bvid=BV1GQ4y1c7o5&t=122&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </details>
 
 <br>
@@ -87,7 +87,7 @@ top: 3
   <summary style="background-color:rgb(199, 224, 247);; color:rgb(0, 0, 0); padding: 10px; border-radius: 5px;font-weight: bold;">嗨呀！原来这么简单呀</summary>
   <br>
 
-  <iframe loading="lazy" width="100%" height="400" src="https://player.bilibili.com/player.html?bvid=BV1GQ4y1c7o5&t=146&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+  <iframe width="100%" height="400" src="https://player.bilibili.com/player.html?bvid=BV1GQ4y1c7o5&t=146&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </details>
 
 [^1]:若一条边，在将纸张展开时变成了整张纸的侧边，则称之为为外边；否则，若展开后这条边变成了纸张的一条中线，则称之为内边
